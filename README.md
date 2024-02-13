@@ -4,6 +4,6 @@
 
 สำหรับวิชา [OOP](https://foku0203.github.io/)
 
-![downlode banner](./banner.jpg)
+![downlode_banner](./banner.jpg)
 
 ปวริศร์ มีแสง
