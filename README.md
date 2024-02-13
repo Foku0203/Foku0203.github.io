@@ -7,14 +7,14 @@
 
 ![downlode_banner](./banner.jpg)
 
-## code git basic **
+## code git basic
 
 ```
 git status
 git add
 git commit
 ```
-## python code **
+## python code
 
 ```
 d = { 'Anna' : 3.99, 'Betty': 3.78 }
