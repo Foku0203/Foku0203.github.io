@@ -3,6 +3,7 @@
 # สมุดบันทึก
 
 สำหรับวิชา [OOP](https://foku0203.github.io/)
+ปวริศร์ มีแสง
 
 ![downlode_banner](./banner.jpg)
 
@@ -21,4 +22,5 @@ for k,v in d.item():
   print(k,v)
 ```
 
-ปวริศร์ มีแสง
+
+
